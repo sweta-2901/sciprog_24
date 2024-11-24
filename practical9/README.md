@@ -8,7 +8,7 @@ main_stub-Copy.c computes if a given matrix is magic square or not
 
 Compilation:
 
-gcc -o magicsquare main_stub-Copy.c
+gcc -o magicsquare main_stub-Copy.c -lm
 
 Execution:
 
