@@ -8,7 +8,7 @@ Conversion.c gives the number of binary digits and the representation of the val
 
 Compilation :
 
-gcc -o Conversion Conversion.c
+gcc -o Conversion Conversion.c -lm
 
 Execution :
 
