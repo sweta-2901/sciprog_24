@@ -6,7 +6,7 @@ practical3.c compiles the sum of f(x)dx that is ranginging rom 0 to pi/3
 
 Compilation: 
 
-gcc -o practical3 practical3.c
+gcc -o practical3 practical3.c -lm
 
 Execution: 
 
