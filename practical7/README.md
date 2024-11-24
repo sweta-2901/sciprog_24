@@ -52,5 +52,3 @@ Output for basicpointers.c :
 Enter the size :
 10
 1111111111
-
-

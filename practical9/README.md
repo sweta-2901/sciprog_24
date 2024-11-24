@@ -6,6 +6,13 @@ This contains all the .c files for practical 9
 
 main_stub-Copy.c computes if a given matrix is magic square or not
 
+Compilation:
+
+gcc -o magicsquare main_stub-Copy.c
+
+Execution:
+
+./magicsquare
 
 Output 1:
 
