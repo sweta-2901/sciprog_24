@@ -6,7 +6,13 @@ This contains all the .c files for practical 7
 
 e.c compares the true and estimated value of the exponential function and also gives the difference between them.
 
-basicpointers.c prints ones for a given size using pointers
+Compilation:
+
+gcc -o e e.c
+
+Execution :
+
+./e
 
 
 Output for e.c :
@@ -30,6 +36,16 @@ Enter the order of the polynomial :
 0.0000000004989248
 
 e is estimated as 2.7182818300845719, with difference 1.625527e-09
+
+basicpointers.c prints ones for a given size using pointers
+
+Compilation:
+
+gcc -o basicpointers basicpointers.c
+
+Execution :
+
+./basicpointers
 
 Output for basicpointers.c :
 
